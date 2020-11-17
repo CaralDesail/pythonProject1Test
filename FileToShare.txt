@@ -1,4 +1,4 @@
 Est-ce que ça marche ?
 Ici pour la branche 1
 
-Ici les modifs du PC fixe
+Version PC Portable
